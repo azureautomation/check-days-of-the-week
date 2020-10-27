@@ -1,0 +1,20 @@
+{
+    "Author": "Jeffrey Fanjoy - MSFT",
+    "ContentSize": 4124,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-days-of-the-week/master/Function-CheckDaysOfWeek.ps1",
+    "DownloadCount": 738,
+    "Id": "Check-Days-of-the-Week-365571ef",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 450,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-12-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook checks the current day of week against a listing of valid days of the week in order to identify if today is a valid day.  It requires a list of valid days of the week in comma-separated format with ranges accepted.",
+    "Title": "Check Days of the Week",
+    "UpdatedDate": "2015-12-10T00:00:00",
+    "Url": "https://github.com/azureautomation/check-days-of-the-week",
+    "UserTags": "Automation, Utility, Scheduling"
+}
